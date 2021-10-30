@@ -1,0 +1,248 @@
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\RxWithWPF.exe.config
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\RxWithWPF.exe
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\RxWithWPF.pdb
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.csprojAssemblyReference.cache
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\MainWindow.g.cs
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\View\View.g.cs
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\App.g.cs
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF_MarkupCompile.cache
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF_MarkupCompile.lref
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\MainWindow.baml
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\View\View.baml
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.g.resources
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.Properties.Resources.resources
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.csproj.GenerateResource.cache
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.csproj.CoreCompileInputs.cache
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.exe
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.pdb
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\netstandard.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.AppContext.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Collections.Concurrent.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Collections.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Collections.NonGeneric.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Collections.Specialized.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.ComponentModel.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Console.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Data.Common.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Debug.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Process.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Tools.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Drawing.Primitives.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Dynamic.Runtime.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Globalization.Calendars.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Globalization.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Globalization.Extensions.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.Compression.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.FileSystem.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.Pipes.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Linq.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Linq.Expressions.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Linq.Parallel.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Linq.Queryable.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Http.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.NameResolution.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.NetworkInformation.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Ping.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Primitives.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Requests.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Security.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Sockets.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Net.WebSockets.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.ObjectModel.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Reflection.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Reflection.Extensions.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Reflection.Primitives.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Resources.Reader.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Resources.ResourceManager.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Resources.Writer.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Extensions.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Handles.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.InteropServices.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Numerics.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Claims.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Principal.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Security.SecureString.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Text.Encoding.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Text.RegularExpressions.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Overlapped.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Tasks.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Thread.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.ThreadPool.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Timer.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.ValueTuple.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XDocument.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XmlDocument.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XPath.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Reactive.Core.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Reactive.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Reactive.xml
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Reactive.Core.xml
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.exe.config
+E:\Work Projects\WPF\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.csproj.CopyComplete
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\RxWithWPF.exe.config
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\RxWithWPF.exe
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\RxWithWPF.pdb
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\netstandard.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.AppContext.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Collections.Concurrent.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Collections.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Collections.NonGeneric.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Collections.Specialized.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.ComponentModel.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.ComponentModel.Primitives.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Console.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Data.Common.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Contracts.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Debug.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Process.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Tools.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Diagnostics.Tracing.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Drawing.Primitives.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Dynamic.Runtime.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Globalization.Calendars.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Globalization.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Globalization.Extensions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.Compression.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.FileSystem.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.IsolatedStorage.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.Pipes.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Linq.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Linq.Expressions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Linq.Parallel.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Linq.Queryable.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Http.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.NameResolution.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.NetworkInformation.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Ping.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Primitives.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Requests.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Security.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.Sockets.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.WebSockets.Client.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Net.WebSockets.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.ObjectModel.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Reflection.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Reflection.Extensions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Reflection.Primitives.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Resources.Reader.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Resources.ResourceManager.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Resources.Writer.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Extensions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Handles.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.InteropServices.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Numerics.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Claims.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Security.Principal.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Security.SecureString.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Text.Encoding.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Text.RegularExpressions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Overlapped.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Tasks.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Thread.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.ThreadPool.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Timer.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.ValueTuple.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.ReaderWriter.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XDocument.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XmlDocument.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XmlSerializer.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XPath.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Reactive.Core.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Reactive.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Reactive.xml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Reactive.Core.xml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.csproj.AssemblyReference.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.exe.config
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\MainWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\View\View.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\App.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF_MarkupCompile.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF_MarkupCompile.lref
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\MainWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\View\View.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.g.resources
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.Properties.Resources.resources
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.csproj.GenerateResource.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.csproj.CoreCompileInputs.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.csproj.CopyComplete
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.exe
+C:\ITI-AI-Intake1\Softec_Graduation_Project\MVVM_Example3\MVVM_Example\RxWithWPF\obj\Debug\RxWithWPF.pdb

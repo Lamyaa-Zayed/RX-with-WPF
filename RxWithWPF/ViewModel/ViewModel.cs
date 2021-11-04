@@ -14,8 +14,6 @@ namespace RxWithWPF
 {
    public class ViewModel : INotifyPropertyChanged
     {
-
-
         public ViewModel()
         {
             TimerValue = 0;
@@ -23,38 +21,27 @@ namespace RxWithWPF
             stopTimerCommand = new RelayCommand(StopTimer);
         }
 
-
-
         private long timerValue;
-
         public long TimerValue
         {
             get { return timerValue; }
             set { timerValue = value; OnPropertyChanged("TimerValue"); }
         }
 
-
-
         public Subject<Unit> StoppingObservable { get; set; }
 
-
         public event PropertyChangedEventHandler PropertyChanged;
-
         protected virtual void OnPropertyChanged(string propertyName)
         {
-            if (this.PropertyChanged != null)
+            if (PropertyChanged != null)
             {
-                this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+                PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
             }
         }
 
-
-
         #region Rx config
-
         public void Timer(TimeSpan timeSpan, SynchronizationContext synchronizationContext)
         {
-
             try
             {
                 //ObserveOn(synchronizationContext)
@@ -63,58 +50,35 @@ namespace RxWithWPF
                 intervalObservable.Subscribe(interval =>
                 {
                     TimerValue = interval;
-
-
                 });
-
-
             }
-            catch (Exception ex)
+            catch (Exception )
             {
-
                 throw;
             }
-
-
         }
-
         #endregion
 
-
         #region Command
-
-
-
-
-
-
-
         private RelayCommand stopTimerCommand;
-
-
-
         public RelayCommand StopTimedCommand
         {
             get { return stopTimerCommand; }
-
         }
 
         public void StopTimer(object parameter)
         {
-
-
-
-            StoppingObservable.OnNext(Unit.Default);
+            //StoppingObservable.OnNext(Unit.Default);
+            if(StoppingObservable.HasObservers)
+            {
+                StoppingObservable.OnNext(Unit.Default);
+            }
+            else
+            {
+                Timer(new TimeSpan(0, 0, 1), SynchronizationContext.Current);
+            }
             //MessageBox.Show("Timer");
-
         }
-
-
-
-
         #endregion
-
-
-
     }
 }

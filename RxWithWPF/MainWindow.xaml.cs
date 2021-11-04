@@ -21,22 +21,14 @@ namespace RxWithWPF
     /// </summary>
     public partial class MainWindow : Window
     {
-
-
         ViewModel ViewModel;
-
-
         public MainWindow()
         {
             InitializeComponent();
 
             ViewModel = new ViewModel();
-
-           // SynchronizationContext synchronizationContext;
-
             ViewModel.Timer(new TimeSpan(0, 0, 1), SynchronizationContext.Current);
-
-            this.DataContext = ViewModel;
+            DataContext = ViewModel;
         }
     }
 }

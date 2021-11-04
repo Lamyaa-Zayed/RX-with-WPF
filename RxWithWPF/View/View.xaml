@@ -5,21 +5,13 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:RxWithWPF"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
+             d:DesignHeight="450" d:DesignWidth="800" Background="PaleGoldenrod">
     <Grid>
+        <TextBlock Width="100" Height="50" Margin="339,89,361,310.6" Text="{Binding TimerValue}"></TextBlock>
 
-
-        <!--<TextBlock Width="100" Height="50" Margin="93,83,607,317" Text="{Binding TimerValue}"></TextBlock>
-        
-        
-        <Button Width="100" Height="50" Content="Stop Timer" Margin="412,33,88,267"
-        Command="{Binding DataContext.StopTimedCommand , RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window} }" CommandParameter="{Binding}" >
-            
-        </Button>-->
-
-
-
-
-
+        <Button Content="Stop Timer" Margin="327,210,344,150.6" Background="Teal"
+                Command="{Binding DataContext.StopTimedCommand , 
+                RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window} }" 
+                CommandParameter="{Binding}"/>
     </Grid>
 </UserControl>
